@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d6f2508.css",
+    "main.js": "/static/js/main.c62b5d85.js",
+    "static/media/Miejsca Rekreacyjne.jpg": "/static/media/Miejsca Rekreacyjne.726a0c551f9b5bc043b7.jpg",
+    "static/media/Centra Kulturalne.jpg": "/static/media/Centra Kulturalne.670655ab9d88cb0df64f.jpg",
+    "static/media/Biblioteki.jpg": "/static/media/Biblioteki.898062d0bcc4014fecfe.jpg",
+    "static/media/Miejsca Historyczne.jpg": "/static/media/Miejsca Historyczne.15304949e1508d692fef.jpg",
+    "static/media/Miejsca Religijne.jpg": "/static/media/Miejsca Religijne.9eb1e111a6e32cbc5606.jpg",
+    "static/media/Intytucje Kulturalne.jpg": "/static/media/Intytucje Kulturalne.cf6c011ef3a6ea4a2389.jpg",
+    "index.html": "/index.html",
+    "main.8d6f2508.css.map": "/static/css/main.8d6f2508.css.map",
+    "main.c62b5d85.js.map": "/static/js/main.c62b5d85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d6f2508.css",
+    "static/js/main.c62b5d85.js"
+  ]
+}
